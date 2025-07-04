@@ -6,7 +6,7 @@ A decentralized horse racing game built on the Solana blockchain using the Ancho
 
 For inquiries, collaborations, or support, feel free to reach out:
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze129)
 
 ## 🏇 Overview
 
